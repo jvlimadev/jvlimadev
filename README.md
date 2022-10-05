@@ -20,8 +20,8 @@ Olá Mundo! 🖖 </br>
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;"
-  src="https://images.vexels.com/media/users/3/152648/isolated/preview/93eaeec7d007682e38e8fd9b2f95878a-icone-plano-de-nave-espacial.png">
+  <img align="right" alt="tired-programmer" height="150" style="border-radius:50px;"
+  src="https://vivodecodigo.com.br/wp-content/uploads/2020/02/5-maus-habidos-de-programadores.jpg">
   
   
 </div>
