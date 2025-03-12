@@ -7,7 +7,7 @@
 ###
 
 <p align="left">- Software developer</p>
-<p align="left">- 99</p>
+<p align="left"></p>
 
 ###
 
