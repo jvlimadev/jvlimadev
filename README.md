@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">- Software developer</p>
+<p align="left">- Desenvolvedor de  Software</p>
 
 
 ###
