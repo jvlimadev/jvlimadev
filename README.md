@@ -126,3 +126,7 @@ Atualmente, estou matriculado na plataforma Alura, onde busco me aperfeiçoar na
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=jvlimadev&layout=compact&custom_title=Tecnologias&langs_count=9""
   />
 </p>
+
+<!--Adicionando o Snake no readme-->
+![snake gif](https://github.com/jvlimadev/SEU_REPOSITORIO/blob/output/github-contribution-grid-snake.svg)
+
