@@ -1,13 +1,56 @@
-<img align="right" height="165" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"  />
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=4169E1&size=35&center=true&vCenter=true&width=1000&lines=OLÁ;Seja+bem+vindo+ao+meu+perfil)](https://git.io/typing-svg)
 
+Me chamo João Victor de Lima, tenho 25 anos e sou formado em Análise e Desenvolvimento de Sistemas pela Universidade Santa Cecília. Me mantenho em constante aprendizado na área de desenvolvimento web, com foco em front-end, aprimorando meus conhecimentos em HTML, CSS e JavaScript.
+
+Estou sempre em busca de evolução, por meio de projetos pessoais e da participação em comunidades de desenvolvimento. Compartilho meus aprendizados e projetos aqui no GitHub e também no LinkedIn.
+
+Atualmente, estou matriculado na plataforma Alura, onde busco me aperfeiçoar nas tecnologias que utilizo no dia a dia.
 ###
 
-<h2 align="left">About me</h2>
+[![badge linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jvictorlima/)
+<p align="left">
+  <a href="https://codepen.io/jvictorlima">
+    <img
+      alt="Codepen"
+      title="Conta do Codepen"
+      src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white"
+     /> 
+  <a href="https://mailto:jvlimadev1999@gmail.com">
+  <img
+    alt="Gmail"
+    title="Conta do Gmail"
+    src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
+   /> 
+    <a href="https://www.instagram.com/jv._lima/">
+        <img
+          alt="Instagram"
+          title="Conta do Instagram"
+          src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"
+         /> 
+    <a href="https://github.com/jvlimadev?tab=repositories&sort=stargazers">
+        <img 
+            alt="Total de estrelas" 
+            title="Total de estrelas GitHub" 
+            src="https://custom-icon-badges.demolab.com/github/stars/jvlimadev?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
+        />
+    </a>  
+    <a href="https://www.linkedin.com/in/jvictorlima/">
+        <img 
+            alt="Total de estrelas" 
+            title="Total de estrelas GitHub" 
+            src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff"
+        />
+    </a>
+    <a href="https://github.com/Larissakich?tab=followers">
+        <img 
+            alt="Seguidores" 
+            title="Me siga no GitHub" 
+            src="https://custom-icon-badges.demolab.com/github/followers/Larissakich?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+        />
+    </a>
+</p>
 
-###
-
-<p align="left">- Desenvolvedor de  Software</p>
-
+---
 
 ###
 
@@ -41,18 +84,3 @@
 
 ###
 
-<h2 align="left">Social Media</h2>
-
-###
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/jvictorlima/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-  <a href="https://www.instagram.com/jv._lima/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  </a>
-</div>
-
-###
