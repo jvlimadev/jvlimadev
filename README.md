@@ -128,6 +128,6 @@ Atualmente, estou matriculado na plataforma Alura, onde busco me aperfeiçoar na
 </p>
 
 <!--Adicionando o Snake no readme-->
-![snake gif](https://github.com/jvlimadev/SEU_REPOSITORIO/blob/output/github-contribution-grid-snake.svg)
-[![readme](https://github-readme-stats.vercel.app/api/pin?username=jvlimadev&repo=yout_jvlimadev&theme=react)](https://github.com/jvlimadev/jvlimadev)
+![snake gif](https://github.com/jvlimadev/jvlimadev/blob/output/github-contribution-grid-snake.svg)
+[![readme](https://github-readme-stats.vercel.app/api/pin?username=jvlimadev&repo=jvlimadev&theme=react)](https://github.com/jvlimadev/jvlimadev)
 
