@@ -6,8 +6,8 @@ Estou sempre em busca de evolução, por meio de projetos pessoais e da particip
 
 Atualmente, estou matriculado na plataforma Alura, onde busco me aperfeiçoar nas tecnologias que utilizo no dia a dia.
 
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=jwenjian.visitor-badge)
 <br/>
-
 
 <p align="left">
     <a href="https://codepen.io/jvictorlima">
@@ -133,4 +133,13 @@ Atualmente, estou matriculado na plataforma Alura, onde busco me aperfeiçoar na
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jvlimadev/jvlimadev/output/github-contribution-grid-snake-dark.svg">
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/jvlimadev/jvlimadev/output/github-contribution-grid-snake.svg">
 </picture>
+
+<!-- Adicionando contador de visitas ao perfil -->
+
+<div align="center">
+  <br>
+  <p align="centre"><b>Visitors Count</b></p>  
+  <p align="center"><img align="center" src="https://profile-counter.glitch.me/{jvlimadev}/count.svg" /></p> 
+  <br>
+</div>
 
