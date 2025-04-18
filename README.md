@@ -6,7 +6,6 @@ Estou sempre em busca de evolução, por meio de projetos pessoais e da particip
 
 Atualmente, estou matriculado na plataforma Alura, onde busco me aperfeiçoar nas tecnologias que utilizo no dia a dia.
 
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=jwenjian.visitor-badge)
 <br/>
 
 <p align="left">
