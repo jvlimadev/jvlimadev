@@ -133,7 +133,7 @@ Atualmente, estou matriculado na plataforma Alura, onde busco me aperfeiçoar na
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/jvlimadev/jvlimadev/output/github-contribution-grid-snake.svg">
 </picture>
 
-<!-- Adicionando contador de visitas ao perfil
+<!-- Adicionando contador de visitas ao perfil -->
 
 <div align="center">
   <br>
@@ -141,4 +141,3 @@ Atualmente, estou matriculado na plataforma Alura, onde busco me aperfeiçoar na
   <p align="center"><img align="center" src="https://profile-counter.glitch.me/{jvlimadev}/count.svg" /></p> 
   <br>
 </div>
- -->
